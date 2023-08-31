@@ -24,7 +24,7 @@ This repository contains the Jupyter Notebook detailing the entire project, capt
 
 ### Why This Project Matters
 
-The ability to identify fake news is becoming increasingly vital in today's digital age. This project showcases not only my technical skills in data preprocessing, machine learning algorithms, and data analysis but also my dedication to tackling real-world challenges through innovative solutions.
+The ability to identify fake news is becoming increasingly important in today's digital age. This project showcases not only my technical skills in data preprocessing, machine learning algorithms, and data analysis but also my dedication to tackling real-world challenges through innovative solutions.
 
 
 Thank you for taking the time to explore this project. Your interest is greatly appreciated.
